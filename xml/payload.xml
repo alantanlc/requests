@@ -1,0 +1,15 @@
+<methodCall>
+	<methodName>callFunc</methodName>
+	<params>
+		<param>
+			<value>
+				<string>getData</string>
+			</value>
+		</param>
+		<param>
+			<value>
+				<string>{"function_name":"getData","profileName":"","date":"20251127"}</string>
+			</value>
+		</param>
+	</params>
+</methodCall>
